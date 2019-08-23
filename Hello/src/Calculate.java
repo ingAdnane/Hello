@@ -10,6 +10,7 @@ String names []= {"ao","ad","mo","in","adnane"};
 		
 			System.out.println(fox);
 			System.out.println("noooo");
+			System.out.println("adnane");
 			
 		}
 	}
