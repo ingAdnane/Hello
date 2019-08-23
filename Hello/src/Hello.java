@@ -15,7 +15,6 @@ public class Hello {
 		System.out.println(som);
 		System.out.println("by");
 
-
 	}
 
 }
