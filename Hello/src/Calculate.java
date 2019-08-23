@@ -9,7 +9,7 @@ public class Calculate {
 		for (String fox : names) {
 		
 			System.out.println(fox);
-			System.out.println("yeeees");
+
 		}
 	}
 
