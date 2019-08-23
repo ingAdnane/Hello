@@ -10,6 +10,7 @@ public class Calculate {
 		
 			System.out.println(fox);
 			System.out.println("noooo");
+			System.out.println("Isaf");
 			
 		}
 	}
